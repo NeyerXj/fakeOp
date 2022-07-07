@@ -1,0 +1,6 @@
+name: Fakeop
+version: '${project.version}'
+main: fakeop.fakeop.Fakeop
+api-version: 1.19
+commands:
+  fakeop: {}
